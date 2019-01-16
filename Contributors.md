@@ -977,6 +977,7 @@
 - [Adrian]
 - [cawash91](https://github.com/cawash91)
 - [BrotherRufus]
+- [Roger](https://github.com/gattur)
 - [Katarzyna Mazur](https://github.com/KatarzynaMaz)
 - [yunyoung1819](https://github.com/yunyoung1819)
 - [Anton Ajit](https://github.com/ntn888)
